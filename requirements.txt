@@ -2,12 +2,12 @@ flask==1.1.2
 numpy==1.19.4
 pillow==8.0.1
 scikit-image==0.17.2
-torch==1.7.0
-torchvision==0.8.1
+torch==1.7.1
+torchvision==0.8.2
 waitress==1.4.4
-tqdm==4.51.0
-requests==2.24.0
+tqdm==4.54.1
+requests==2.25.1
 scipy==1.5.4
-pymatting==1.1.1
+pymatting==1.1.2
 filetype==1.0.7
 hsh==1.1.0
